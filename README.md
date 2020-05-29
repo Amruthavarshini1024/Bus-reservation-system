@@ -10,8 +10,8 @@ Before running the code, the user is required to install C++ IDE (for windows OS
 In the windows OS, the user can simply open the file with any C++ IDE and give execute the compilation and run it. 
 UNIX users are required to first navigate to the directory where this busres.cpp file is stored and then run the following commands in terminal.
 
-g++ [filename.cpp]
-./a.out #unix
+g++ [filename.cpp]  -> 
+./a.out #unix  -> 
 a.exe  #windows
 
 
